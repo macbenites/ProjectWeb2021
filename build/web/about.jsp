@@ -44,7 +44,7 @@
             <div class="container-fluid">
                 <div class="row">
                     <div class="col-sm-12 col-lg-3">
-                        <div class="logo"><img src="images/logo.png"></div>
+                        <div class="logo"><img src="images/logo.svg"></div>
                     </div>
                     <div class="col-sm-4 col-lg-5">
                         <div class="menu-area">
@@ -98,10 +98,9 @@
                 <div class="about_bg">
                     <div class="row">
                         <div class="col-md-8">
-                            <p class="about_long_text">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution o
-                                f letters, a
-                                s opposed to using 'Content h
-                                ere, content here', making it look like readable English. Many desktop publishing packages and web</p>
+                            <p class="about_long_text">Fixa S.A. es una empresa en Perú, con sede principal en Callao. 
+                                Opera en Comerciantes al por Mayor de Equipos y Suministros para Uso Profesional y Comercial industrian , 
+                                para solucionar problemas industriales en anclajes. La empresa fue fundada en 03 de marzo de 1958.</p>
                             <button class="about_bt">ABOUT MORE</button>
                         </div>
                         <div class="col-md-4">

@@ -1,4 +1,4 @@
-jsp<%-- 
+<%-- 
     Document   : company
     Created on : 06/05/2021, 01:21:39 PM
     Author     : marlo
@@ -44,7 +44,7 @@ jsp<%--
             <div class="container-fluid">
                 <div class="row">
                     <div class="col-sm-12 col-lg-3">
-                        <div class="logo"><img src="images/logo.png"></div>
+                        <div class="logo"><img src="images/logo.svg"></div>
                     </div>
                     <div class="col-sm-4 col-lg-5">
                         <div class="menu-area">
